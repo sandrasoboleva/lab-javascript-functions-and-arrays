@@ -197,6 +197,13 @@ for (let i = 0; i < columnsCount; i++){
 return finalProduct;
 }
 
+//Bonus 8.1
+
+let maxProduct = greatestProduct(matrix);
+console.log(maxProduct);
+// => 57,148,146
+
+
 
 
 // The following is required to make unit tests work.
